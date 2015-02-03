@@ -1,18 +1,20 @@
+<link href='http://fonts.googleapis.com/css?family=Quattrocento:400,700' rel='stylesheet' type='text/css'>
+
 <style>
 div.cell.code_cell {
-    background-color: rgba(171,165,131,0.3); 
-    border-radius: 10px; /* rounded borders */
-    padding: 1em;
-    margin-top: 1em;
+
 }
 
 div.text_cell_render{
-    font-family: serif;
+
+    font-family: 'Quattrocento', serif;
     line-height: 130%;
     font-size: 115%;
     width:700px;
-    margin-left:auto;
+    margin-left:1%;
     margin-right:auto;
+    padding-bottom:35px;
+
 }
 
 </style>
