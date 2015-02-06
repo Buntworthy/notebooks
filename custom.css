@@ -5,12 +5,16 @@ div.cell.code_cell {
 
 }
 
+div.container {
+    max-width: 900px;
+}
+
 div.text_cell_render{
 
     font-family: 'Quattrocento', serif;
     line-height: 130%;
-    font-size: 115%;
-    width:700px;
+    font-size: 130%;
+    max-width:700px;
     margin-left:1%;
     margin-right:auto;
     padding-bottom:35px;
